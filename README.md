@@ -1,2 +1,2 @@
-# Projeto-APPs-Flutter
-Desenvolvimento de apps derunte realização do curso de flutter
+# Lista-de-tarefas-Flutter
+Desenvolvimento do app derunte realização do curso de flutter
